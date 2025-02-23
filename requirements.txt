@@ -1,0 +1,6 @@
+pandas
+matplotlib
+yfinance
+beautifulsoup4
+requests
+jupyter
