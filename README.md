@@ -29,6 +29,3 @@ See `requirements.txt` for package versions.
 
 ## 📄 License
 This project is for educational purposes under IBM Skills Network.
-
-## 🔗 Submission
-Submit the GitHub repository link or a Watson Studio shared notebook link as required.
